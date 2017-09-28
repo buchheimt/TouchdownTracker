@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#2C9676</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#2C9676</item>
+        <!-- Color for button text in the app -->
+        <item name="android:textColorPrimary">#D5D5D5</item>
+
+    </style>
+
+</resources>
